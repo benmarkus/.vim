@@ -14,6 +14,7 @@ if $COLORTERM == 'truecolor'
 endif
 
 
+
 let mapleader=","
 nnoremap <leader>c :botright term<CR>
 
